@@ -18,6 +18,6 @@
 import testtools
 
 
-class TestCase(testtools.BaseTestCase):
+class TestCase(testtools.TestCase):
 
     """Test case base class for all unit tests."""
